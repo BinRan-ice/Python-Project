@@ -1,0 +1,6 @@
+2022-09-30 20:29:05 - root - DEBUG -demo08_logging模块:  你好，我叫周杰伦
+2022-09-30 20:29:05 - root - CRITICAL -demo08_logging模块:  今天系统炸了，请程序员来调试
+2022-09-30 20:29:05 - root - ERROR -demo08_logging模块:  一般指的是不同的程序错误，速成bug
+2022-09-30 20:29:05 - root - WARNING -demo08_logging模块:  我只是一个警告的消息
+2022-09-30 20:29:05 - root - INFO -demo08_logging模块:  我只是一个普通的消息
+2022-09-30 20:29:05 - root - DEBUG -demo08_logging模块:  默认最低等级的消息
