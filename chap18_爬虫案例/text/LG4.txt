@@ -1,0 +1,16 @@
+职位描述：
+工作内容：
+1、负责系统后端服务器的软件研发工作
+2、负责软件架构设计，编码实现，并进行单元测试，提高代码质量
+3、编写软件设计文档和接口说明文档
+
+任职要求：
+1、计算机、电子、数学或相关专业，重点本科及以上学历
+2、熟悉Linux系统，精通Python语言
+3、熟练掌握redis及mongodb
+4、熟练掌握asyncio、aiohttp、websockets、requests、threading、multiprocessing、subprocess模块
+5、熟练使用git
+6、加分项：熟悉或了解金融市场，证券/期货/期权/外汇/大宗
+7、加分项：熟悉aioredis、sanic、numpy、pandas、socket、ctypes模块
+8、加分项：具备扎实的数学能力
+9、加分项：能独立编写shell/bash脚本
