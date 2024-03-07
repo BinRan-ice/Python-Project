@@ -1,0 +1,8 @@
+1.新建Scrapy项目
+2.新建CrawlSpider爬虫 scrapy genspider -t crawl 爬虫名称 域名
+3.编写规则(爬取的URL的规则)
+解析操作(编写items)
+5.创建数据库(navicat for mysql)MySQL第三方图形化界面，创建数据表
+6.编写配置文件，读取配置文件
+7.数据存储
+8.测试
